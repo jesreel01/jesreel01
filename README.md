@@ -14,13 +14,28 @@
 - 📚 In my free time, I enjoy reading tech articles, books, and watching educational videos on YouTube to stay up to date with the latest trends.
 
 📈 **My GitHub Stats:**
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jesreel01/jesreel01/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/jesreel01/jesreel01/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
 <p>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesreel01&theme=dark" alt="Streak Stats" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesreel01&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 
-<img src="https://github.com/jesreel01/jesreel01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+
 
 
 
