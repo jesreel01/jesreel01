@@ -15,6 +15,12 @@
 
 <br>
 
+**Languages & Technologies I work with:**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,python,html,css,react,nextjs,nodejs,dotnet,express,nginx,nestjs,sass,emotion,tailwindcss,materialui,docker,aws,mongodb,redis,postgres,postman,bash,ubuntu,vscode,yarn,npm,rest,postman,github,gitlab,figma)](https://skillicons.dev)
+
+<br>
+
 📈 **My GitHub Stats:**
 <picture>
   <source
@@ -35,6 +41,11 @@
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesreel01&theme=dark" alt="Streak Stats" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesreel01&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
+
+
+
 
 
 
