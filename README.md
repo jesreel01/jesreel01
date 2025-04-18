@@ -15,8 +15,8 @@
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesreel01&theme=dark" alt="Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesreel01&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesreel01&theme=dark" alt="Streak Stats" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesreel01&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 
