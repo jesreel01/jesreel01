@@ -13,6 +13,8 @@
 - 🤖 Exploring AI technologies and DevOps practices that align with data-centric solutions is one of my current goals.  
 - 📚 In my free time, I enjoy reading tech articles, books, and watching educational videos on YouTube to stay up to date with the latest trends.
 
+<br>
+
 📈 **My GitHub Stats:**
 <picture>
   <source
