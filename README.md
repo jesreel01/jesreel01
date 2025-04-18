@@ -12,3 +12,16 @@
 - 🐍 I'm also expanding my skillset by exploring Python for backend and data-driven applications.  
 - 🤖 Exploring AI technologies and DevOps practices that align with data-centric solutions is one of my current goals.  
 - 📚 In my free time, I enjoy reading tech articles, books, and watching educational videos on YouTube to stay up to date with the latest trends.
+
+📈 **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jesreel01&theme=dark" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesreel01&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+
+
+
+
+
+
