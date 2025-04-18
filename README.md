@@ -5,7 +5,7 @@
 
 **Here are some facts about me:**
 
-- 🧑‍💻 I'm a Full-Stack Developer with 3 years of hands-on experience.  
+- 🧑‍💻 I'm a Full-Stack Developer with 3+ years of hands-on experience.  
 - ⚙️ My background includes working with React, Next.js, Express.js, NestJS, FeatherJS, and modern UI libraries like Tailwind CSS, Material UI, and Ant Design.  
 - 🚀 I'm passionate about building scalable, maintainable, reusable, and well-tested solutions—particularly using microservices and serverless architectures.  
 - 🧠 I’m currently diving deeper into cloud technologies — especially AWS and learning PostgreSQL to strengthen my backend expertise.  
