@@ -17,7 +17,7 @@
 
 **Languages & Technologies I work with:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,python,html,css,react,nextjs,nodejs,dotnet,express,nginx,nestjs,sass,emotion,tailwindcss,materialui,docker,aws,mongodb,redis,postgres,postman,bash,ubuntu,vscode,yarn,npm,rest,postman,github,gitlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,python,html,css,react,nextjs,nodejs,dotnet,express,nginx,nestjs,sass,emotion,tailwindcss,materialui,docker,aws,mongodb,redis,postgres,postman,bash,ubuntu,vscode,yarn,npm,postman,github,gitlab,figma)](https://skillicons.dev)
 
 <br>
 
