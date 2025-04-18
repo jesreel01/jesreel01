@@ -15,7 +15,7 @@
 
 <br>
 
-**Languages & Technologies I work with:**
+**Some of the tech I know:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,py,html,css,react,nextjs,redux,nodejs,dotnet,express,nginx,nestjs,sass,emotion,tailwindcss,materialui,cypress,jest,pug,docker,aws,mongodb,redis,postgres,postman,bash,ubuntu,vscode,yarn,npm,postman,github,gitlab,figma)](https://skillicons.dev)
 
